@@ -1,4 +1,6 @@
 # CarND-Controls-MPC
+Writeup.pdf is under SRC
+
 Self-Driving Car Engineer Nanodegree Program
 
 ---
